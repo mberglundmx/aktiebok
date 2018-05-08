@@ -1,4 +1,4 @@
-# embut AB 559000-9618
+# Aktiebok embut AB 559000-9618
 
 Totalt antal aktier: 1,000
 

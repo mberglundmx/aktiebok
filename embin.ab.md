@@ -7,7 +7,7 @@ Kvotvärde 100:-
 Aktiekapital 50,000:-
 
 ## Markus Berglund (791129-6213)
-Innehav: 500 aktier (1-500)
+Innehav: 500 aktier (1-500), noterades 2013-02-26
 
 Aktiebrev har ej utfärdats
 
@@ -17,4 +17,4 @@ Doktor Lindhs gata 4, lgh1205
 413 25 Göteborg
 
 -------------------
-Senaste uppdatering 2018-05-08
+Senaste uppdatering 2013-02-26
